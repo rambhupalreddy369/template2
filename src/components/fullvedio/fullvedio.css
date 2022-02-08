@@ -1,0 +1,6 @@
+.vedio{
+    width: 360px;
+    height: 800px;
+    margin: 50px;
+    background-image: url('../../../public/assets/bright_green_fullvideo.png');
+}

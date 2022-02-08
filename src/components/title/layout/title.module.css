@@ -1,0 +1,12 @@
+.layout{
+    margin: 50px;
+    margin-left: 100px;
+    width: 370px;
+    height: 800px;
+    background-color: rgba(172, 187, 128, 1);
+    display: inline-block;
+}
+.head{
+    /* display: flex; */
+    justify-content: space-between;
+}

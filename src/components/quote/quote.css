@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap');
+.section1{
+    width: 360px;
+    height: 800px;
+    background-color: rgba(172, 187, 128, 1);
+    margin: 50px;
+    font-family: 'Work Sans', sans-serif;
+    font-style: normal;
+}
+.content1{
+    position: absolute;
+    margin-top: 130px;
+    padding: 0;
+}
+.quote{
+    padding-left: -13px;
+}
+.quote, .quote1{
+    font-family: 'Zen Dots', cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 48px;
+    color: #000000;
+}
+.quote1{
+    padding-left: 280px;
+}
+h7{
+    position: absolute;
+    margin-top: 300px;
+    padding-left: 24px;
+    font-family: 'Work Sans', sans-serif;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 23px;
+    line-height: 27px;
+    color: #000000;
+}

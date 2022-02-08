@@ -1,0 +1,22 @@
+
+.halfvedio{
+    width: 360px;
+    height: 800px;
+    margin: 50px;
+    background: rgba(172, 187, 128, 1);
+}
+.image1{
+    width: 114px;
+    height: 114px;
+    position: absolute;
+    margin-left: 105px;
+    margin-top: 114px;
+}
+.vediosection{
+    position: absolute;
+    width: 324px;
+    height: 342px;
+    margin-top: 45px;
+    background-color: rgba(86, 83, 83, 1);
+    border-radius: 21px;
+}

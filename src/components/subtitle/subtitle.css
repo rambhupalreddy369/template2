@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap" rel="stylesheet');
+
+.Section{
+    width: 360px;
+    height: 800px;
+    background-color: rgba(172, 187, 128, 1);
+    margin: 50px;
+    font-family: 'Work Sans', sans-serif;
+    font-style: normal;
+}
+.text{
+    margin: 240px 0 0 30px;
+}
+h3{
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 35px;
+    color: #FFFFFF;
+    margin: 0;
+}
+h4{
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 47px;
+    color: #FFFFFF;
+    margin: 0;
+    padding-top: 30px;
+}
+.rect{
+    position: absolute;
+    width: 232.62px;
+    height: 128px;
+    background: #C4CFA3;
+    border-radius: 42px;
+    transform: rotate(40.12deg);
+}
